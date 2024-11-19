@@ -1,0 +1,294 @@
+date,visitor_team,visitor_pts,home_team,home_pts
+2024-10-22,New York Knicks,109.0,Boston Celtics,132.0
+2024-10-22,Minnesota Timberwolves,103.0,Los Angeles Lakers,110.0
+2024-10-23,Indiana Pacers,115.0,Detroit Pistons,109.0
+2024-10-23,Brooklyn Nets,116.0,Atlanta Hawks,120.0
+2024-10-23,Orlando Magic,116.0,Miami Heat,97.0
+2024-10-23,Milwaukee Bucks,124.0,Philadelphia 76ers,109.0
+2024-10-23,Cleveland Cavaliers,136.0,Toronto Raptors,106.0
+2024-10-23,Charlotte Hornets,110.0,Houston Rockets,105.0
+2024-10-23,Chicago Bulls,111.0,New Orleans Pelicans,123.0
+2024-10-23,Memphis Grizzlies,126.0,Utah Jazz,124.0
+2024-10-23,Phoenix Suns,116.0,Los Angeles Clippers,113.0
+2024-10-23,Golden State Warriors,140.0,Portland Trail Blazers,104.0
+2024-10-24,Boston Celtics,122.0,Washington Wizards,102.0
+2024-10-24,San Antonio Spurs,109.0,Dallas Mavericks,120.0
+2024-10-24,Minnesota Timberwolves,117.0,Sacramento Kings,115.0
+2024-10-24,Oklahoma City Thunder,102.0,Denver Nuggets,87.0
+2024-10-25,Brooklyn Nets,101.0,Orlando Magic,116.0
+2024-10-25,Philadelphia 76ers,107.0,Toronto Raptors,115.0
+2024-10-25,Charlotte Hornets,120.0,Atlanta Hawks,125.0
+2024-10-25,Detroit Pistons,101.0,Cleveland Cavaliers,113.0
+2024-10-25,Indiana Pacers,98.0,New York Knicks,123.0
+2024-10-25,Memphis Grizzlies,108.0,Houston Rockets,128.0
+2024-10-25,Chicago Bulls,133.0,Milwaukee Bucks,122.0
+2024-10-25,Golden State Warriors,127.0,Utah Jazz,86.0
+2024-10-25,Phoenix Suns,116.0,Los Angeles Lakers,123.0
+2024-10-25,New Orleans Pelicans,105.0,Portland Trail Blazers,103.0
+2024-10-26,Los Angeles Clippers,109.0,Denver Nuggets,104.0
+2024-10-26,Cleveland Cavaliers,135.0,Washington Wizards,116.0
+2024-10-26,Boston Celtics,124.0,Detroit Pistons,118.0
+2024-10-26,Miami Heat,114.0,Charlotte Hornets,106.0
+2024-10-26,Orlando Magic,111.0,Memphis Grizzlies,124.0
+2024-10-26,Toronto Raptors,101.0,Minnesota Timberwolves,112.0
+2024-10-26,Oklahoma City Thunder,114.0,Chicago Bulls,95.0
+2024-10-26,Houston Rockets,106.0,San Antonio Spurs,109.0
+2024-10-26,Dallas Mavericks,102.0,Phoenix Suns,114.0
+2024-10-26,Sacramento Kings,127.0,Los Angeles Lakers,131.0
+2024-10-27,Philadelphia 76ers,118.0,Indiana Pacers,114.0
+2024-10-27,New Orleans Pelicans,103.0,Portland Trail Blazers,125.0
+2024-10-27,Milwaukee Bucks,102.0,Brooklyn Nets,115.0
+2024-10-27,Atlanta Hawks,104.0,Oklahoma City Thunder,128.0
+2024-10-27,Los Angeles Clippers,112.0,Golden State Warriors,104.0
+2024-10-28,Indiana Pacers,115.0,Orlando Magic,119.0
+2024-10-28,Washington Wizards,121.0,Atlanta Hawks,119.0
+2024-10-28,Milwaukee Bucks,108.0,Boston Celtics,119.0
+2024-10-28,Denver Nuggets,127.0,Toronto Raptors,125.0
+2024-10-28,Detroit Pistons,98.0,Miami Heat,106.0
+2024-10-28,Cleveland Cavaliers,110.0,New York Knicks,104.0
+2024-10-28,Houston Rockets,106.0,San Antonio Spurs,101.0
+2024-10-28,Chicago Bulls,126.0,Memphis Grizzlies,123.0
+2024-10-28,Utah Jazz,102.0,Dallas Mavericks,110.0
+2024-10-28,Portland Trail Blazers,98.0,Sacramento Kings,111.0
+2024-10-28,Los Angeles Lakers,105.0,Phoenix Suns,109.0
+2024-10-29,Denver Nuggets,144.0,Brooklyn Nets,139.0
+2024-10-29,Dallas Mavericks,120.0,Minnesota Timberwolves,114.0
+2024-10-29,Sacramento Kings,113.0,Utah Jazz,96.0
+2024-10-29,New Orleans Pelicans,106.0,Golden State Warriors,124.0
+2024-10-30,Detroit Pistons,105.0,Philadelphia 76ers,95.0
+2024-10-30,Atlanta Hawks,120.0,Washington Wizards,133.0
+2024-10-30,Boston Celtics,132.0,Indiana Pacers,135.0
+2024-10-30,Los Angeles Lakers,110.0,Cleveland Cavaliers,134.0
+2024-10-30,Toronto Raptors,133.0,Charlotte Hornets,138.0
+2024-10-30,New York Knicks,116.0,Miami Heat,107.0
+2024-10-30,Orlando Magic,99.0,Chicago Bulls,102.0
+2024-10-30,Brooklyn Nets,119.0,Memphis Grizzlies,106.0
+2024-10-30,San Antonio Spurs,93.0,Oklahoma City Thunder,105.0
+2024-10-30,New Orleans Pelicans,89.0,Golden State Warriors,104.0
+2024-10-30,Portland Trail Blazers,106.0,Los Angeles Clippers,105.0
+2024-10-31,Milwaukee Bucks,99.0,Memphis Grizzlies,122.0
+2024-10-31,Houston Rockets,108.0,Dallas Mavericks,102.0
+2024-10-31,San Antonio Spurs,106.0,Utah Jazz,88.0
+2024-10-31,Phoenix Suns,125.0,Los Angeles Clippers,119.0
+2024-11-01,Boston Celtics,124.0,Charlotte Hornets,109.0
+2024-11-01,Orlando Magic,109.0,Cleveland Cavaliers,120.0
+2024-11-01,New York Knicks,128.0,Detroit Pistons,98.0
+2024-11-01,Sacramento Kings,123.0,Atlanta Hawks,115.0
+2024-11-01,Chicago Bulls,112.0,Brooklyn Nets,120.0
+2024-11-01,Los Angeles Lakers,131.0,Toronto Raptors,125.0
+2024-11-01,Indiana Pacers,118.0,New Orleans Pelicans,125.0
+2024-11-01,Denver Nuggets,116.0,Minnesota Timberwolves,119.0
+2024-11-01,Oklahoma City Thunder,137.0,Portland Trail Blazers,114.0
+2024-11-02,Boston Celtics,113.0,Charlotte Hornets,103.0
+2024-11-02,Memphis Grizzlies,124.0,Philadelphia 76ers,107.0
+2024-11-02,Sacramento Kings,128.0,Toronto Raptors,131.0
+2024-11-02,Golden State Warriors,127.0,Houston Rockets,121.0
+2024-11-02,Cleveland Cavaliers,114.0,Milwaukee Bucks,113.0
+2024-11-02,Minnesota Timberwolves,103.0,San Antonio Spurs,113.0
+2024-11-02,Miami Heat,118.0,Washington Wizards,98.0
+2024-11-02,Utah Jazz,103.0,Denver Nuggets,129.0
+2024-11-02,Portland Trail Blazers,97.0,Phoenix Suns,103.0
+2024-11-02,Oklahoma City Thunder,105.0,Los Angeles Clippers,92.0
+2024-11-03,Detroit Pistons,106.0,Brooklyn Nets,92.0
+2024-11-03,Atlanta Hawks,126.0,New Orleans Pelicans,111.0
+2024-11-03,Orlando Magic,85.0,Dallas Mavericks,108.0
+2024-11-04,Milwaukee Bucks,114.0,Cleveland Cavaliers,116.0
+2024-11-04,Golden State Warriors,125.0,Washington Wizards,112.0
+2024-11-04,Los Angeles Lakers,103.0,Detroit Pistons,115.0
+2024-11-04,Boston Celtics,123.0,Atlanta Hawks,93.0
+2024-11-04,Memphis Grizzlies,104.0,Brooklyn Nets,106.0
+2024-11-04,Sacramento Kings,111.0,Miami Heat,110.0
+2024-11-04,Utah Jazz,135.0,Chicago Bulls,126.0
+2024-11-04,New York Knicks,97.0,Houston Rockets,109.0
+2024-11-04,Charlotte Hornets,93.0,Minnesota Timberwolves,114.0
+2024-11-04,Orlando Magic,86.0,Oklahoma City Thunder,102.0
+2024-11-04,Portland Trail Blazers,118.0,New Orleans Pelicans,100.0
+2024-11-04,Indiana Pacers,134.0,Dallas Mavericks,127.0
+2024-11-04,Toronto Raptors,119.0,Denver Nuggets,121.0
+2024-11-04,Philadelphia 76ers,116.0,Phoenix Suns,118.0
+2024-11-04,San Antonio Spurs,104.0,Los Angeles Clippers,113.0
+2024-11-06,Detroit Pistons,107.0,Charlotte Hornets,108.0
+2024-11-06,Orlando Magic,111.0,Indiana Pacers,118.0
+2024-11-06,New York Knicks,116.0,Atlanta Hawks,121.0
+2024-11-06,Golden State Warriors,118.0,Boston Celtics,112.0
+2024-11-06,San Antonio Spurs,100.0,Houston Rockets,127.0
+2024-11-06,Los Angeles Lakers,114.0,Memphis Grizzlies,131.0
+2024-11-06,Cleveland Cavaliers,131.0,New Orleans Pelicans,122.0
+2024-11-06,Chicago Bulls,99.0,Dallas Mavericks,119.0
+2024-11-06,Oklahoma City Thunder,122.0,Denver Nuggets,124.0
+2024-11-06,Miami Heat,112.0,Phoenix Suns,115.0
+2024-11-06,Philadelphia 76ers,98.0,Los Angeles Clippers,110.0
+2024-11-06,Toronto Raptors,107.0,Sacramento Kings,122.0
+2024-11-07,Minnesota Timberwolves,135.0,Chicago Bulls,119.0
+2024-11-07,Utah Jazz,100.0,Milwaukee Bucks,123.0
+2024-11-07,Portland Trail Blazers,105.0,San Antonio Spurs,118.0
+2024-11-08,Indiana Pacers,83.0,Charlotte Hornets,103.0
+2024-11-08,Atlanta Hawks,121.0,Detroit Pistons,122.0
+2024-11-08,New Orleans Pelicans,88.0,Orlando Magic,115.0
+2024-11-08,Brooklyn Nets,104.0,Boston Celtics,108.0
+2024-11-08,Golden State Warriors,117.0,Cleveland Cavaliers,136.0
+2024-11-08,Phoenix Suns,114.0,Dallas Mavericks,113.0
+2024-11-08,Milwaukee Bucks,94.0,New York Knicks,116.0
+2024-11-08,Washington Wizards,104.0,Memphis Grizzlies,128.0
+2024-11-08,Houston Rockets,107.0,Oklahoma City Thunder,126.0
+2024-11-08,Miami Heat,122.0,Denver Nuggets,135.0
+2024-11-08,Portland Trail Blazers,102.0,Minnesota Timberwolves,127.0
+2024-11-08,Philadelphia 76ers,106.0,Los Angeles Lakers,116.0
+2024-11-08,Los Angeles Clippers,107.0,Sacramento Kings,98.0
+2024-11-09,Utah Jazz,111.0,San Antonio Spurs,110.0
+2024-11-09,Chicago Bulls,125.0,Atlanta Hawks,113.0
+2024-11-09,Brooklyn Nets,100.0,Cleveland Cavaliers,105.0
+2024-11-09,Toronto Raptors,103.0,Los Angeles Clippers,105.0
+2024-11-10,Houston Rockets,101.0,Detroit Pistons,99.0
+2024-11-10,Boston Celtics,113.0,Milwaukee Bucks,107.0
+2024-11-10,New York Knicks,121.0,Indiana Pacers,132.0
+2024-11-10,Washington Wizards,94.0,Orlando Magic,121.0
+2024-11-10,Miami Heat,95.0,Minnesota Timberwolves,94.0
+2024-11-10,Golden State Warriors,127.0,Oklahoma City Thunder,116.0
+2024-11-10,Charlotte Hornets,105.0,Philadelphia 76ers,107.0
+2024-11-10,Dallas Mavericks,120.0,Denver Nuggets,122.0
+2024-11-10,Sacramento Kings,127.0,Phoenix Suns,118.0
+2024-11-10,Memphis Grizzlies,134.0,Portland Trail Blazers,89.0
+2024-11-10,Toronto Raptors,103.0,Los Angeles Lakers,123.0
+2024-11-11,Cleveland Cavaliers,119.0,Chicago Bulls,113.0
+2024-11-11,Washington Wizards,92.0,Houston Rockets,107.0
+2024-11-11,Brooklyn Nets,107.0,New Orleans Pelicans,105.0
+2024-11-11,Los Angeles Clippers,128.0,Oklahoma City Thunder,134.0
+2024-11-11,Sacramento Kings,96.0,San Antonio Spurs,116.0
+2024-11-12,Atlanta Hawks,117.0,Boston Celtics,116.0
+2024-11-12,Miami Heat,121.0,Detroit Pistons,123.0
+2024-11-12,Charlotte Hornets,89.0,Orlando Magic,114.0
+2024-11-12,New York Knicks,111.0,Philadelphia 76ers,99.0
+2024-11-12,Toronto Raptors,85.0,Milwaukee Bucks,99.0
+2024-11-12,Phoenix Suns,120.0,Utah Jazz,112.0
+2024-11-12,Dallas Mavericks,117.0,Golden State Warriors,120.0
+2024-11-12,Minnesota Timberwolves,108.0,Portland Trail Blazers,122.0
+2024-11-13,Indiana Pacers,90.0,Orlando Magic,94.0
+2024-11-13,Boston Celtics,139.0,Brooklyn Nets,114.0
+2024-11-13,Chicago Bulls,124.0,New York Knicks,123.0
+2024-11-13,New Orleans Pelicans,88.0,Oklahoma City Thunder,106.0
+2024-11-13,Cleveland Cavaliers,114.0,Philadelphia 76ers,106.0
+2024-11-13,Los Angeles Clippers,103.0,Houston Rockets,111.0
+2024-11-13,Detroit Pistons,120.0,Milwaukee Bucks,127.0
+2024-11-13,Washington Wizards,130.0,San Antonio Spurs,139.0
+2024-11-13,Memphis Grizzlies,123.0,Los Angeles Lakers,128.0
+2024-11-13,Minnesota Timberwolves,98.0,Portland Trail Blazers,106.0
+2024-11-13,Phoenix Suns,104.0,Sacramento Kings,127.0
+2024-11-14,Dallas Mavericks,113.0,Utah Jazz,115.0
+2024-11-15,Miami Heat,124.0,Indiana Pacers,111.0
+2024-11-15,Philadelphia 76ers,86.0,Orlando Magic,98.0
+2024-11-15,Detroit Pistons,99.0,Toronto Raptors,95.0
+2024-11-15,Washington Wizards,117.0,Atlanta Hawks,129.0
+2024-11-15,Chicago Bulls,126.0,Cleveland Cavaliers,144.0
+2024-11-15,Brooklyn Nets,122.0,New York Knicks,124.0
+2024-11-15,Los Angeles Lakers,120.0,San Antonio Spurs,115.0
+2024-11-15,Los Angeles Clippers,104.0,Houston Rockets,125.0
+2024-11-15,Denver Nuggets,94.0,New Orleans Pelicans,101.0
+2024-11-15,Phoenix Suns,83.0,Oklahoma City Thunder,99.0
+2024-11-15,Memphis Grizzlies,118.0,Golden State Warriors,123.0
+2024-11-15,Minnesota Timberwolves,130.0,Sacramento Kings,126.0
+2024-11-16,Milwaukee Bucks,114.0,Charlotte Hornets,115.0
+2024-11-16,Toronto Raptors,123.0,Boston Celtics,126.0
+2024-11-16,Los Angeles Lakers,104.0,New Orleans Pelicans,99.0
+2024-11-16,San Antonio Spurs,93.0,Dallas Mavericks,110.0
+2024-11-16,Utah Jazz,117.0,Sacramento Kings,121.0
+2024-11-17,Phoenix Suns,117.0,Minnesota Timberwolves,120.0
+2024-11-17,Miami Heat,110.0,Indiana Pacers,119.0
+2024-11-17,Charlotte Hornets,114.0,Cleveland Cavaliers,128.0
+2024-11-17,Denver Nuggets,90.0,Memphis Grizzlies,105.0
+2024-11-17,Atlanta Hawks,110.0,Portland Trail Blazers,114.0
+2024-11-17,Detroit Pistons,124.0,Washington Wizards,104.0
+2024-11-17,Houston Rockets,143.0,Chicago Bulls,107.0
+2024-11-17,Brooklyn Nets,104.0,New York Knicks,114.0
+2024-11-17,Dallas Mavericks,121.0,Oklahoma City Thunder,119.0
+2024-11-17,Utah Jazz,105.0,Los Angeles Clippers,116.0
+2024-11-18,Chicago Bulls,122.0,Detroit Pistons,112.0
+2024-11-18,Philadelphia 76ers,89.0,Miami Heat,106.0
+2024-11-18,Washington Wizards,106.0,New York Knicks,134.0
+2024-11-18,Indiana Pacers,119.0,Toronto Raptors,130.0
+2024-11-18,Houston Rockets,100.0,Milwaukee Bucks,101.0
+2024-11-18,Orlando Magic,109.0,Phoenix Suns,99.0
+2024-11-18,Atlanta Hawks,109.0,Sacramento Kings,108.0
+2024-11-18,Golden State Warriors,99.0,Los Angeles Clippers,102.0
+2024-11-19,Cleveland Cavaliers,,Boston Celtics,
+2024-11-19,Charlotte Hornets,,Brooklyn Nets,
+2024-11-19,Denver Nuggets,,Memphis Grizzlies,
+2024-11-19,New Orleans Pelicans,,Dallas Mavericks,
+2024-11-19,Oklahoma City Thunder,,San Antonio Spurs,
+2024-11-19,Utah Jazz,,Los Angeles Lakers,
+2024-11-20,New Orleans Pelicans,,Cleveland Cavaliers,
+2024-11-20,Chicago Bulls,,Milwaukee Bucks,
+2024-11-20,Indiana Pacers,,Houston Rockets,
+2024-11-20,Philadelphia 76ers,,Memphis Grizzlies,
+2024-11-20,Portland Trail Blazers,,Oklahoma City Thunder,
+2024-11-20,Atlanta Hawks,,Golden State Warriors,
+2024-11-20,New York Knicks,,Phoenix Suns,
+2024-11-20,Orlando Magic,,Los Angeles Clippers,
+2024-11-21,Detroit Pistons,,Charlotte Hornets,
+2024-11-21,Minnesota Timberwolves,,Toronto Raptors,
+2024-11-21,Utah Jazz,,San Antonio Spurs,
+2024-11-21,Orlando Magic,,Los Angeles Lakers,
+2024-11-22,Brooklyn Nets,,Philadelphia 76ers,
+2024-11-22,Boston Celtics,,Washington Wizards,
+2024-11-22,Golden State Warriors,,New Orleans Pelicans,
+2024-11-22,Atlanta Hawks,,Chicago Bulls,
+2024-11-22,Portland Trail Blazers,,Houston Rockets,
+2024-11-22,Indiana Pacers,,Milwaukee Bucks,
+2024-11-22,Dallas Mavericks,,Denver Nuggets,
+2024-11-22,Sacramento Kings,,Los Angeles Clippers,
+2024-11-23,New York Knicks,,Utah Jazz,
+2024-11-23,Detroit Pistons,,Orlando Magic,
+2024-11-23,Memphis Grizzlies,,Chicago Bulls,
+2024-11-23,Portland Trail Blazers,,Houston Rockets,
+2024-11-23,Charlotte Hornets,,Milwaukee Bucks,
+2024-11-23,Golden State Warriors,,San Antonio Spurs,
+2024-11-23,Denver Nuggets,,Los Angeles Lakers,
+2024-11-24,Minnesota Timberwolves,,Boston Celtics,
+2024-11-24,Washington Wizards,,Indiana Pacers,
+2024-11-24,Dallas Mavericks,,Miami Heat,
+2024-11-24,Los Angeles Clippers,,Philadelphia 76ers,
+2024-11-24,Toronto Raptors,,Cleveland Cavaliers,
+2024-11-24,Brooklyn Nets,,Sacramento Kings,
+2024-11-25,Orlando Magic,,Charlotte Hornets,
+2024-11-25,Toronto Raptors,,Detroit Pistons,
+2024-11-25,New Orleans Pelicans,,Indiana Pacers,
+2024-11-25,Dallas Mavericks,,Atlanta Hawks,
+2024-11-25,Los Angeles Clippers,,Boston Celtics,
+2024-11-25,Portland Trail Blazers,,Memphis Grizzlies,
+2024-11-25,New York Knicks,,Denver Nuggets,
+2024-11-25,Brooklyn Nets,,Golden State Warriors,
+2024-11-25,Oklahoma City Thunder,,Sacramento Kings,
+2024-11-26,Chicago Bulls,,Washington Wizards,
+2024-11-26,Milwaukee Bucks,,Miami Heat,
+2024-11-26,Houston Rockets,,Minnesota Timberwolves,
+2024-11-26,San Antonio Spurs,,Utah Jazz,
+2024-11-26,Los Angeles Lakers,,Phoenix Suns,
+2024-11-27,Miami Heat,,Charlotte Hornets,
+2024-11-27,Atlanta Hawks,,Cleveland Cavaliers,
+2024-11-27,Portland Trail Blazers,,Indiana Pacers,
+2024-11-27,Chicago Bulls,,Orlando Magic,
+2024-11-27,Houston Rockets,,Philadelphia 76ers,
+2024-11-27,Los Angeles Clippers,,Washington Wizards,
+2024-11-27,New York Knicks,,Dallas Mavericks,
+2024-11-27,Detroit Pistons,,Memphis Grizzlies,
+2024-11-27,Sacramento Kings,,Minnesota Timberwolves,
+2024-11-27,Toronto Raptors,,New Orleans Pelicans,
+2024-11-27,Los Angeles Lakers,,San Antonio Spurs,
+2024-11-27,Brooklyn Nets,,Phoenix Suns,
+2024-11-27,Denver Nuggets,,Utah Jazz,
+2024-11-27,Oklahoma City Thunder,,Golden State Warriors,
+2024-11-29,New York Knicks,,Charlotte Hornets,
+2024-11-29,Cleveland Cavaliers,,Atlanta Hawks,
+2024-11-29,New Orleans Pelicans,,Memphis Grizzlies,
+2024-11-29,Orlando Magic,,Brooklyn Nets,
+2024-11-29,Los Angeles Clippers,,Minnesota Timberwolves,
+2024-11-29,Boston Celtics,,Chicago Bulls,
+2024-11-29,Detroit Pistons,,Indiana Pacers,
+2024-11-29,Toronto Raptors,,Miami Heat,
+2024-11-29,Oklahoma City Thunder,,Los Angeles Lakers,
+2024-11-29,Sacramento Kings,,Portland Trail Blazers,
+2024-11-30,Atlanta Hawks,,Charlotte Hornets,
+2024-11-30,Philadelphia 76ers,,Detroit Pistons,
+2024-11-30,Washington Wizards,,Milwaukee Bucks,
+2024-11-30,Golden State Warriors,,Phoenix Suns,
+2024-11-30,Dallas Mavericks,,Utah Jazz,
