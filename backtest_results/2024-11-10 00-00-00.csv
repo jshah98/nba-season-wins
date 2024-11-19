@@ -1,0 +1,6 @@
+,date,visitor_team,visitor_pts,home_team,home_pts,pred,winner,confidence,correct
+151,2024-11-11,Cleveland Cavaliers,119.0,Chicago Bulls,113.0,Cleveland Cavaliers,Cleveland Cavaliers,0.7,1
+152,2024-11-11,Washington Wizards,92.0,Houston Rockets,107.0,Houston Rockets,Houston Rockets,0.7777777777777778,1
+153,2024-11-11,Brooklyn Nets,107.0,New Orleans Pelicans,105.0,Brooklyn Nets,Brooklyn Nets,0.625,1
+154,2024-11-11,Los Angeles Clippers,128.0,Oklahoma City Thunder,134.0,Oklahoma City Thunder,Oklahoma City Thunder,0.5735294117647058,1
+155,2024-11-11,Sacramento Kings,96.0,San Antonio Spurs,116.0,Sacramento Kings,San Antonio Spurs,0.575,0

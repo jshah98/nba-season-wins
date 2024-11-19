@@ -1,0 +1,6 @@
+,date,visitor_team,visitor_pts,home_team,home_pts,pred,winner,confidence,correct
+188,2024-11-16,Milwaukee Bucks,114.0,Charlotte Hornets,115.0,Charlotte Hornets,Charlotte Hornets,0.6285714285714286,1
+189,2024-11-16,Toronto Raptors,123.0,Boston Celtics,126.0,Boston Celtics,Boston Celtics,0.8363636363636363,1
+190,2024-11-16,Los Angeles Lakers,104.0,New Orleans Pelicans,99.0,Los Angeles Lakers,Los Angeles Lakers,0.65625,1
+191,2024-11-16,San Antonio Spurs,93.0,Dallas Mavericks,110.0,San Antonio Spurs,Dallas Mavericks,0.532258064516129,0
+192,2024-11-16,Utah Jazz,117.0,Sacramento Kings,121.0,Sacramento Kings,Sacramento Kings,0.7090909090909091,1

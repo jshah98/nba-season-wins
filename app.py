@@ -12,8 +12,6 @@ def get_months_from_october():
         "july", "august", "september"
     ]
     current_month = datetime.now().strftime("%B").lower()
-
-
     return months[:months.index(current_month)+1]
 
 

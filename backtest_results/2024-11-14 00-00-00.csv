@@ -1,0 +1,13 @@
+,date,visitor_team,visitor_pts,home_team,home_pts,pred,winner,confidence,correct
+176,2024-11-15,Miami Heat,124.0,Indiana Pacers,111.0,Indiana Pacers,Miami Heat,0.6530612244897959,0
+177,2024-11-15,Philadelphia 76ers,86.0,Orlando Magic,98.0,Orlando Magic,Orlando Magic,0.7567567567567568,1
+178,2024-11-15,Detroit Pistons,99.0,Toronto Raptors,95.0,Detroit Pistons,Detroit Pistons,0.71875,1
+179,2024-11-15,Washington Wizards,117.0,Atlanta Hawks,129.0,Atlanta Hawks,Atlanta Hawks,0.7297297297297297,1
+180,2024-11-15,Chicago Bulls,126.0,Cleveland Cavaliers,144.0,Cleveland Cavaliers,Cleveland Cavaliers,0.6818181818181818,1
+181,2024-11-15,Brooklyn Nets,122.0,New York Knicks,124.0,Brooklyn Nets,New York Knicks,0.5652173913043478,0
+182,2024-11-15,Los Angeles Lakers,120.0,San Antonio Spurs,115.0,Los Angeles Lakers,Los Angeles Lakers,0.5303030303030303,1
+183,2024-11-15,Los Angeles Clippers,104.0,Houston Rockets,125.0,Houston Rockets,Houston Rockets,0.56,1
+184,2024-11-15,Denver Nuggets,94.0,New Orleans Pelicans,101.0,Denver Nuggets,New Orleans Pelicans,0.6739130434782609,0
+185,2024-11-15,Phoenix Suns,83.0,Oklahoma City Thunder,99.0,Oklahoma City Thunder,Oklahoma City Thunder,0.5742574257425742,1
+186,2024-11-15,Memphis Grizzlies,118.0,Golden State Warriors,123.0,Golden State Warriors,Golden State Warriors,0.620253164556962,1
+187,2024-11-15,Minnesota Timberwolves,130.0,Sacramento Kings,126.0,Sacramento Kings,Minnesota Timberwolves,0.5522388059701493,0

@@ -1,0 +1,39 @@
+,date,visitor_team,visitor_pts,home_team,home_pts,pred,winner,confidence,correct
+151,2024-11-11,Cleveland Cavaliers,119.0,Chicago Bulls,113.0,Cleveland Cavaliers,Cleveland Cavaliers,0.7,1
+152,2024-11-11,Washington Wizards,92.0,Houston Rockets,107.0,Houston Rockets,Houston Rockets,0.7777777777777778,1
+153,2024-11-11,Brooklyn Nets,107.0,New Orleans Pelicans,105.0,Brooklyn Nets,Brooklyn Nets,0.625,1
+154,2024-11-11,Los Angeles Clippers,128.0,Oklahoma City Thunder,134.0,Oklahoma City Thunder,Oklahoma City Thunder,0.5735294117647058,1
+157,2024-11-12,Miami Heat,121.0,Detroit Pistons,123.0,Detroit Pistons,Detroit Pistons,0.5151515151515151,1
+158,2024-11-12,Charlotte Hornets,89.0,Orlando Magic,114.0,Orlando Magic,Orlando Magic,0.5135135135135135,1
+159,2024-11-12,New York Knicks,111.0,Philadelphia 76ers,99.0,New York Knicks,New York Knicks,0.625,1
+161,2024-11-12,Phoenix Suns,120.0,Utah Jazz,112.0,Phoenix Suns,Phoenix Suns,0.8043478260869565,1
+162,2024-11-12,Dallas Mavericks,117.0,Golden State Warriors,120.0,Golden State Warriors,Golden State Warriors,0.6333333333333333,1
+165,2024-11-13,Boston Celtics,139.0,Brooklyn Nets,114.0,Boston Celtics,Boston Celtics,0.6,1
+166,2024-11-13,Chicago Bulls,124.0,New York Knicks,123.0,Chicago Bulls,Chicago Bulls,0.525,1
+167,2024-11-13,New Orleans Pelicans,88.0,Oklahoma City Thunder,106.0,Oklahoma City Thunder,Oklahoma City Thunder,0.7936507936507936,1
+168,2024-11-13,Cleveland Cavaliers,114.0,Philadelphia 76ers,106.0,Cleveland Cavaliers,Cleveland Cavaliers,0.8548387096774194,1
+169,2024-11-13,Los Angeles Clippers,103.0,Houston Rockets,111.0,Houston Rockets,Houston Rockets,0.5230769230769231,1
+171,2024-11-13,Washington Wizards,130.0,San Antonio Spurs,139.0,San Antonio Spurs,San Antonio Spurs,0.7142857142857143,1
+172,2024-11-13,Memphis Grizzlies,123.0,Los Angeles Lakers,128.0,Los Angeles Lakers,Los Angeles Lakers,0.5192307692307693,1
+177,2024-11-15,Philadelphia 76ers,86.0,Orlando Magic,98.0,Orlando Magic,Orlando Magic,0.7567567567567568,1
+178,2024-11-15,Detroit Pistons,99.0,Toronto Raptors,95.0,Detroit Pistons,Detroit Pistons,0.71875,1
+179,2024-11-15,Washington Wizards,117.0,Atlanta Hawks,129.0,Atlanta Hawks,Atlanta Hawks,0.7297297297297297,1
+180,2024-11-15,Chicago Bulls,126.0,Cleveland Cavaliers,144.0,Cleveland Cavaliers,Cleveland Cavaliers,0.6818181818181818,1
+182,2024-11-15,Los Angeles Lakers,120.0,San Antonio Spurs,115.0,Los Angeles Lakers,Los Angeles Lakers,0.5303030303030303,1
+183,2024-11-15,Los Angeles Clippers,104.0,Houston Rockets,125.0,Houston Rockets,Houston Rockets,0.56,1
+185,2024-11-15,Phoenix Suns,83.0,Oklahoma City Thunder,99.0,Oklahoma City Thunder,Oklahoma City Thunder,0.5742574257425742,1
+186,2024-11-15,Memphis Grizzlies,118.0,Golden State Warriors,123.0,Golden State Warriors,Golden State Warriors,0.620253164556962,1
+188,2024-11-16,Milwaukee Bucks,114.0,Charlotte Hornets,115.0,Charlotte Hornets,Charlotte Hornets,0.6285714285714286,1
+189,2024-11-16,Toronto Raptors,123.0,Boston Celtics,126.0,Boston Celtics,Boston Celtics,0.8363636363636363,1
+190,2024-11-16,Los Angeles Lakers,104.0,New Orleans Pelicans,99.0,Los Angeles Lakers,Los Angeles Lakers,0.65625,1
+192,2024-11-16,Utah Jazz,117.0,Sacramento Kings,121.0,Sacramento Kings,Sacramento Kings,0.7090909090909091,1
+194,2024-11-17,Miami Heat,110.0,Indiana Pacers,119.0,Indiana Pacers,Indiana Pacers,0.5967741935483871,1
+195,2024-11-17,Charlotte Hornets,114.0,Cleveland Cavaliers,128.0,Cleveland Cavaliers,Cleveland Cavaliers,0.7346938775510204,1
+198,2024-11-17,Detroit Pistons,124.0,Washington Wizards,104.0,Detroit Pistons,Detroit Pistons,0.7073170731707317,1
+199,2024-11-17,Houston Rockets,143.0,Chicago Bulls,107.0,Houston Rockets,Houston Rockets,0.6219512195121951,1
+202,2024-11-17,Utah Jazz,105.0,Los Angeles Clippers,116.0,Los Angeles Clippers,Los Angeles Clippers,0.6730769230769231,1
+203,2024-11-18,Chicago Bulls,122.0,Detroit Pistons,112.0,Chicago Bulls,Chicago Bulls,0.515625,1
+204,2024-11-18,Philadelphia 76ers,89.0,Miami Heat,106.0,Miami Heat,Miami Heat,0.717948717948718,1
+205,2024-11-18,Washington Wizards,106.0,New York Knicks,134.0,New York Knicks,New York Knicks,0.7391304347826086,1
+211,2024-11-19,Cleveland Cavaliers,,Boston Celtics,,Cleveland Cavaliers,Cleveland Cavaliers,0.6013986013986014,1
+215,2024-11-19,Oklahoma City Thunder,,San Antonio Spurs,,Oklahoma City Thunder,Oklahoma City Thunder,0.6837606837606838,1

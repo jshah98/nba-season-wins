@@ -1,0 +1,29 @@
+,date,visitor_team,visitor_pts,home_team,home_pts,pred,winner,confidence,correct
+155,2024-11-11,Sacramento Kings,96.0,San Antonio Spurs,116.0,Sacramento Kings,San Antonio Spurs,0.575,0
+156,2024-11-12,Atlanta Hawks,117.0,Boston Celtics,116.0,Boston Celtics,Atlanta Hawks,0.6595744680851063,0
+160,2024-11-12,Toronto Raptors,85.0,Milwaukee Bucks,99.0,Toronto Raptors,Milwaukee Bucks,0.6666666666666666,0
+163,2024-11-12,Minnesota Timberwolves,108.0,Portland Trail Blazers,122.0,Minnesota Timberwolves,Portland Trail Blazers,0.6842105263157895,0
+164,2024-11-13,Indiana Pacers,90.0,Orlando Magic,94.0,Indiana Pacers,Orlando Magic,0.5660377358490566,0
+170,2024-11-13,Detroit Pistons,120.0,Milwaukee Bucks,127.0,Detroit Pistons,Milwaukee Bucks,0.7857142857142857,0
+173,2024-11-13,Minnesota Timberwolves,98.0,Portland Trail Blazers,106.0,Minnesota Timberwolves,Portland Trail Blazers,0.6,0
+174,2024-11-13,Phoenix Suns,104.0,Sacramento Kings,127.0,Phoenix Suns,Sacramento Kings,0.6060606060606061,0
+175,2024-11-14,Dallas Mavericks,113.0,Utah Jazz,115.0,Dallas Mavericks,Utah Jazz,0.7027027027027027,0
+176,2024-11-15,Miami Heat,124.0,Indiana Pacers,111.0,Indiana Pacers,Miami Heat,0.6530612244897959,0
+181,2024-11-15,Brooklyn Nets,122.0,New York Knicks,124.0,Brooklyn Nets,New York Knicks,0.5652173913043478,0
+184,2024-11-15,Denver Nuggets,94.0,New Orleans Pelicans,101.0,Denver Nuggets,New Orleans Pelicans,0.6739130434782609,0
+187,2024-11-15,Minnesota Timberwolves,130.0,Sacramento Kings,126.0,Sacramento Kings,Minnesota Timberwolves,0.5522388059701493,0
+191,2024-11-16,San Antonio Spurs,93.0,Dallas Mavericks,110.0,San Antonio Spurs,Dallas Mavericks,0.532258064516129,0
+193,2024-11-17,Phoenix Suns,117.0,Minnesota Timberwolves,120.0,Phoenix Suns,Minnesota Timberwolves,0.5454545454545454,0
+196,2024-11-17,Denver Nuggets,90.0,Memphis Grizzlies,105.0,Denver Nuggets,Memphis Grizzlies,0.5074626865671642,0
+197,2024-11-17,Atlanta Hawks,110.0,Portland Trail Blazers,114.0,Atlanta Hawks,Portland Trail Blazers,0.5409836065573771,0
+200,2024-11-17,Brooklyn Nets,104.0,New York Knicks,114.0,,New York Knicks,,0
+201,2024-11-17,Dallas Mavericks,121.0,Oklahoma City Thunder,119.0,Oklahoma City Thunder,Dallas Mavericks,0.6698113207547169,0
+206,2024-11-18,Indiana Pacers,119.0,Toronto Raptors,130.0,Indiana Pacers,Toronto Raptors,0.8181818181818182,0
+207,2024-11-18,Houston Rockets,100.0,Milwaukee Bucks,101.0,Houston Rockets,Milwaukee Bucks,0.8157894736842105,0
+208,2024-11-18,Orlando Magic,109.0,Phoenix Suns,99.0,Phoenix Suns,Orlando Magic,0.6022727272727273,0
+209,2024-11-18,Atlanta Hawks,109.0,Sacramento Kings,108.0,Sacramento Kings,Atlanta Hawks,0.5584415584415584,0
+210,2024-11-18,Golden State Warriors,99.0,Los Angeles Clippers,102.0,Golden State Warriors,Los Angeles Clippers,0.6346153846153846,0
+212,2024-11-19,Charlotte Hornets,,Brooklyn Nets,,,Charlotte Hornets,,0
+213,2024-11-19,Denver Nuggets,,Memphis Grizzlies,,Memphis Grizzlies,Denver Nuggets,0.5308641975308642,0
+214,2024-11-19,New Orleans Pelicans,,Dallas Mavericks,,Dallas Mavericks,New Orleans Pelicans,0.6621621621621622,0
+216,2024-11-19,Utah Jazz,,Los Angeles Lakers,,Los Angeles Lakers,Utah Jazz,0.7285714285714285,0

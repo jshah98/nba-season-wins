@@ -1,0 +1,9 @@
+,date,visitor_team,visitor_pts,home_team,home_pts,pred,winner,confidence,correct
+156,2024-11-12,Atlanta Hawks,117.0,Boston Celtics,116.0,Boston Celtics,Atlanta Hawks,0.6595744680851063,0
+157,2024-11-12,Miami Heat,121.0,Detroit Pistons,123.0,Detroit Pistons,Detroit Pistons,0.5151515151515151,1
+158,2024-11-12,Charlotte Hornets,89.0,Orlando Magic,114.0,Orlando Magic,Orlando Magic,0.5135135135135135,1
+159,2024-11-12,New York Knicks,111.0,Philadelphia 76ers,99.0,New York Knicks,New York Knicks,0.625,1
+160,2024-11-12,Toronto Raptors,85.0,Milwaukee Bucks,99.0,Toronto Raptors,Milwaukee Bucks,0.6666666666666666,0
+161,2024-11-12,Phoenix Suns,120.0,Utah Jazz,112.0,Phoenix Suns,Phoenix Suns,0.8043478260869565,1
+162,2024-11-12,Dallas Mavericks,117.0,Golden State Warriors,120.0,Golden State Warriors,Golden State Warriors,0.6333333333333333,1
+163,2024-11-12,Minnesota Timberwolves,108.0,Portland Trail Blazers,122.0,Minnesota Timberwolves,Portland Trail Blazers,0.6842105263157895,0

@@ -1,0 +1,11 @@
+,date,visitor_team,visitor_pts,home_team,home_pts,pred,winner,confidence,correct
+193,2024-11-17,Phoenix Suns,117.0,Minnesota Timberwolves,120.0,Phoenix Suns,Minnesota Timberwolves,0.5454545454545454,0
+194,2024-11-17,Miami Heat,110.0,Indiana Pacers,119.0,Indiana Pacers,Indiana Pacers,0.5967741935483871,1
+195,2024-11-17,Charlotte Hornets,114.0,Cleveland Cavaliers,128.0,Cleveland Cavaliers,Cleveland Cavaliers,0.7346938775510204,1
+196,2024-11-17,Denver Nuggets,90.0,Memphis Grizzlies,105.0,Denver Nuggets,Memphis Grizzlies,0.5074626865671642,0
+197,2024-11-17,Atlanta Hawks,110.0,Portland Trail Blazers,114.0,Atlanta Hawks,Portland Trail Blazers,0.5409836065573771,0
+198,2024-11-17,Detroit Pistons,124.0,Washington Wizards,104.0,Detroit Pistons,Detroit Pistons,0.7073170731707317,1
+199,2024-11-17,Houston Rockets,143.0,Chicago Bulls,107.0,Houston Rockets,Houston Rockets,0.6219512195121951,1
+200,2024-11-17,Brooklyn Nets,104.0,New York Knicks,114.0,,New York Knicks,,0
+201,2024-11-17,Dallas Mavericks,121.0,Oklahoma City Thunder,119.0,Oklahoma City Thunder,Dallas Mavericks,0.6698113207547169,0
+202,2024-11-17,Utah Jazz,105.0,Los Angeles Clippers,116.0,Los Angeles Clippers,Los Angeles Clippers,0.6730769230769231,1
